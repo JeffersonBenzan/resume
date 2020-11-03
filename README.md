@@ -1,2 +1,2 @@
 # resume
-Resume
+Just my resume.
